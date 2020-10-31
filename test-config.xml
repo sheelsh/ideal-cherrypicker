@@ -9,7 +9,7 @@
 		<constructor-arg index="0" value="US">
 		</constructor-arg>
 	</bean>
-	<bean id="country" class="com.test.State">
+	<bean id="state" class="com.test.State">
 		<constructor-arg index="0" value="MA">
 		</constructor-arg>
 	</bean>
