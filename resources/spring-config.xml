@@ -23,6 +23,10 @@
 		<constructor-arg index="0" value="Worcester">
 		</constructor-arg>
 	</bean>
+	<bean id="city" class="com.test.City">
+		<constructor-arg index="0" value="Natick">
+		</constructor-arg>
+	</bean>
 	<annotation-config />
 	<!-- Adding comment -->
 </beans>
